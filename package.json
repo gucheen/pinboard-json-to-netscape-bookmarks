@@ -1,0 +1,13 @@
+{
+  "name": "pinboard-json-to-netscape-bookmarks",
+  "version": "1.0.0",
+  "description": "this script converts your pinbaord json data to standard netscape bookmarks file (html)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 0"
+  },
+  "keywords": ["pinboard", "netscape", "bookmarks"],
+  "author": "gucheen guchengf@gmail.com",
+  "license": "MIT"
+}
